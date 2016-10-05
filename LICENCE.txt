@@ -1,4 +1,4 @@
-Akeneo PIM
+akeneo-pim-docker
 
 The Open Software License version 3.0
 
