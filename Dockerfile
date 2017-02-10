@@ -4,7 +4,7 @@ MAINTAINER Ronan Guilloux <ronan.guilloux@gmail.com>
 # Add some utilities
 ADD docker/pim-download.sh /usr/local/bin/pim-download
 ADD docker/pim-initialize.sh /usr/local/bin/pim-initialize
-ADD dpcker/pim-declare-volumes.sh /usr/local/bin/pim-declare-volumes
+ADD docker/pim-declare-volumes.sh /usr/local/bin/pim-declare-volumes
 ADD docker/run.sh /usr/local/bin/run
 RUN sudo chmod +x /usr/local/bin/*
 
